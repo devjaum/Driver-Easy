@@ -11,6 +11,7 @@ function Home(){
                 <p>COMBATE</p>
                 <p>CONTATO</p>
             </div>
+            <span class="blur"></span>
         </main>
     )
 }
